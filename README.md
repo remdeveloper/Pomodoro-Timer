@@ -2,7 +2,7 @@
 
 Live demo: https://pomodoro-timer2.vercel.app/
 
-The Pomodoro technique is a time-management method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. This will be simplified version of Cirillo's original Pomodoro technique. Built with React and JavaScript.
+The Pomodoro technique is a time-management method. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. This will be simplified version of Cirillo's original Pomodoro technique. Built with React, Node, Bootstrap, CSS, HTML, JavaScript.
 
 ## Features
 1. Set the focus duration (default to 25 minutes, no less than 5 or more than 60).
